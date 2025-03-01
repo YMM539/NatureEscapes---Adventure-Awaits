@@ -1,7 +1,5 @@
 # NatureEscapes - Adventure Travel Website
 
-![NatureEscapes Preview](./لقطة شاشة_28-2-2025_33347_127.0.0.1.jpeg)
-
 ## 🌿 Overview
 
 NatureEscapes is a modern, responsive website for an adventure travel company that specializes in nature expeditions and mountain climbing experiences. Built with HTML, TailwindCSS, and JavaScript, the site features an immersive user interface with stunning visuals and smooth animations.
