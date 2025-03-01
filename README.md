@@ -1,6 +1,6 @@
 # NatureEscapes - Adventure Travel Website
 
-![NatureEscapes Preview](./screenshots/preview.png)
+![NatureEscapes Preview](./لقطة شاشة_28-2-2025_33347_127.0.0.1.jpeg)
 
 ## 🌿 Overview
 
